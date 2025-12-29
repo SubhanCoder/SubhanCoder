@@ -1,10 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on **modern web applications** using **Laravel, Vue.js, and Tailwind CSS**, focusing on clean UI and scalable backend systems.  
-👯 I’m looking to collaborate on **Laravel, Vue, and full-stack web projects**, especially dashboards, admin panels, and SaaS ideas.  
-🤝 I’m looking for help with **advanced system architecture, performance optimization, and real-time features**.  
-🌱 I’m currently learning **advanced Laravel concepts, Vue 3 ecosystem, API integrations, and best UI/UX practices**.  
-💬 Ask me about **Laravel, Vue.js, Tailwind CSS, Bootstrap, PHP, JavaScript, jQuery, Filament, and Livewire**.  
-⚡ Fun fact: **I love turning complex logic into simple, clean code and beautiful interfaces.**
+🔭 I’m currently working on **modern, scalable web applications** using **Laravel, Vue.js, and Tailwind CSS**, focusing on performance, security, and clean UI.  
+👯 I’m looking to collaborate on **Laravel, Vue, and full-stack projects**, including dashboards, admin panels, booking systems, and SaaS platforms.  
+🤝 I’m looking for help with **system architecture, advanced backend optimization, and real-time features** (WebSockets, notifications, live updates).  
+🌱 I’m currently learning **advanced Laravel patterns, Vue 3 ecosystem, API integrations, authentication systems, and UI/UX best practices**.  
+💬 Ask me about **Laravel, Vue.js, Tailwind CSS, Bootstrap, PHP, JavaScript, jQuery, Filament, Livewire, REST APIs, and database design**.  
+⚡ Fun fact: **I enjoy converting complex business logic into clean, user-friendly web experiences.**
+
+---
+
+## 🚀 What I Do:
+- 🔹 Build **full-stack web applications**
+- 🔹 Develop **REST APIs** & backend systems
+- 🔹 Create **admin dashboards** using Filament & Livewire
+- 🔹 Design **responsive UI** with Tailwind & Bootstrap
+- 🔹 Optimize **performance & security**
+- 🔹 Work with **databases & authentication systems**
 
 ---
 
@@ -16,14 +26,25 @@
 ---
 
 ## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🖥️ Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database & Tools
+- MySQL / SQL Server  
+- REST APIs  
+- Git & GitHub  
+- Vite / npm  
 
 ---
 
@@ -34,16 +55,22 @@
 
 ---
 
+## 🏆 GitHub Achievements:
+![](https://github-profile-trophy.vercel.app/?username=SubhanCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repos:
+### 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=SubhanCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+## 📈 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=SubhanCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM -->
