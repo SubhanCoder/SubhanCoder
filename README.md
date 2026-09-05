@@ -1,31 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on **modern, scalable web applications** using **Laravel, Vue.js, and Tailwind CSS**, focusing on performance, security, and clean UI.  
-👯 I’m looking to collaborate on **Laravel, Vue, and full-stack projects**, including dashboards, admin panels, booking systems, and SaaS platforms.  
-🤝 I’m looking for help with **system architecture, advanced backend optimization, and real-time features** (WebSockets, notifications, live updates).  
-🌱 I’m currently learning **advanced Laravel patterns, Vue 3 ecosystem, API integrations, authentication systems, and UI/UX best practices**.  
-💬 Ask me about **Laravel, Vue.js, Tailwind CSS, Bootstrap, PHP, JavaScript, jQuery, Filament, Livewire, REST APIs, and database design**.  
-⚡ Fun fact: **I enjoy converting complex business logic into clean, user-friendly web experiences.**
+# 👋 Hi, I'm Subhan Owais — Full-Stack Laravel Developer
+
+Full-Stack Web Developer specializing in the **Laravel ecosystem** (Laravel, Livewire, Filament) paired with modern front-end tools (**Vue.js, Tailwind CSS, Bootstrap, jQuery**). I build clean, scalable, production-ready web applications — from admin dashboards and booking systems to full business websites — and turn complex business logic into simple, user-friendly experiences.
 
 ---
 
-## 🚀 What I Do:
-- 🔹 Build **full-stack web applications**
+## 💫 About Me
+
+- 🔭 Currently building **modern, scalable web applications** using Laravel, Vue.js, and Tailwind CSS, focused on performance, security, and clean UI.
+- 👯 Open to collaborating on **Laravel, Vue, and full-stack projects** — dashboards, admin panels, booking systems, and SaaS platforms.
+- 🤝 Available for **freelance / contract work** — I deliver real business websites and web apps for clients.
+- 🧑‍🏫 I also work as a **Front-End Development Mentor**, helping others learn modern web development.
+- 🌱 Currently deepening my skills in advanced Laravel patterns, the Vue 3 ecosystem, API integrations, authentication systems, and UI/UX best practices.
+- 💬 Ask me about **Laravel, Livewire, Filament, Vue.js, JavaScript, jQuery, Tailwind CSS, Bootstrap, REST APIs, and database design**.
+
+---
+
+## 🚀 What I Do
+
+- 🔹 Build **full-stack web applications** end-to-end
 - 🔹 Develop **REST APIs** & backend systems
 - 🔹 Create **admin dashboards** using Filament & Livewire
-- 🔹 Design **responsive UI** with Tailwind & Bootstrap
-- 🔹 Optimize **performance & security**
-- 🔹 Work with **databases & authentication systems**
+- 🔹 Design **responsive, production-ready UI** with Tailwind CSS & Bootstrap
+- 🔹 Deliver **real client websites** for automotive & service-industry businesses
+- 🔹 Optimize **performance, security, and database design**
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SubhanCoding)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SubhanCoding)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.subhanowais@gmail.com)
+## 💼 Featured Client Work
+
+**CT Coachworks** — [ctcoachworks.com](https://ctcoachworks.com)
+Responsive business website built for an automotive coachworks company.
+
+**AsteMotori / ForCar Motori** — [forcarmotor.it](https://forcarmotor.it)
+Responsive front-end built for an automotive services business.
+
+*More projects and case studies on my [LinkedIn](https://www.linkedin.com/in/mr-subhan-b931b4278/) and [Upwork](https://www.upwork.com/freelancers/~019b04760874c0c0a2) profiles.*
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+
 ### 🖥️ Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,36 +55,38 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Database & Tools
-- MySQL / SQL Server  
-- REST APIs  
-- Git & GitHub  
-- Vite / npm  
+- MySQL / SQL Server
+- REST APIs
+- Git & GitHub
+- Vite / npm
 
 ---
 
-## 📊 GitHub Stats:
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-subhan-b931b4278/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019b04760874c0c0a2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.subhanowais@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SubhanCoding)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/SubhanCoding)
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SubhanCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SubhanCoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanCoder&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🏆 GitHub Achievements:
+## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=SubhanCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories:
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=SubhanCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📈 Profile Views:
+## 📈 Profile Views
 [![](https://visitcount.itsvg.in/api?id=SubhanCoder&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM -->
