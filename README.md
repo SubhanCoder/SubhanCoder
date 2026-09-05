@@ -70,23 +70,3 @@ Responsive front-end built for an automotive services business.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/SubhanCoding)
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SubhanCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SubhanCoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanCoder&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=SubhanCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=SubhanCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Profile Views
-[![](https://visitcount.itsvg.in/api?id=SubhanCoder&icon=0&color=0)](https://visitcount.itsvg.in)
